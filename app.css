@@ -1,0 +1,54 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    background-color:cornsilk;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+    
+}
+
+#imgSrc {
+    width: 80%;
+}
+
+#topText {
+    width: 80%;
+}
+
+#botText {
+    width: 78%;
+}
+
+.img {
+    width: 600px;
+}
+
+.memeContainer {
+    position: relative;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    text-shadow: 5px 5px 5px black;
+}
+
+.top {
+    position: absolute;
+    top: 8px;
+    left: 320px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 15px;
+    left: 320px;
+}
+
